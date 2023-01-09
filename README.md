@@ -1,7 +1,7 @@
 # ChatApp-webSocket
 A basic chatapp - webSockets basics
 
-git clone <url>
+git clone https://github.com/Shiwangsh/ChatApp-webSocket.git
 
 ### Server:
 - npm i
