@@ -3,10 +3,10 @@ A basic chatapp - webSockets basics
 
 git clone <url>
 
-** Server:
+### Server:
 - npm i
 - npm start
 
-** Client:
+### Client:
 - npm i
 - npm start
